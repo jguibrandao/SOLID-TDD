@@ -61,7 +61,7 @@ An API that students make projects and submit then for receive the correction of
 
 ### Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+This section should list any major frameworks that you built your project using.
 * [SOLID architecture]
 * [TDD]
 * [NodeJS]
