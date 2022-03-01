@@ -1,0 +1,1 @@
+A students projects API using Typescript, SOLID and TDD.
