@@ -126,18 +126,6 @@ Project Link: [https://github.com/jguibrandao/SOLID-TDD](https://github.com/jgui
 
 
 
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-* [SOLID architecture]
-* [TDD]
-* [NodeJS]
-* [TypeScript]
-* [Jest])
-
-
-
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/jguibrandao/SOLID-TDD.svg?style=for-the-badge
