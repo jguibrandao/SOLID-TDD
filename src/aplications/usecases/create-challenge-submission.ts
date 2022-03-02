@@ -14,13 +14,13 @@ export class CreateChallengeSubmission {
     ) {}
 
     async execute({ studentId, challengeId }: CreateChallengeSubmissionRequest) {
-       const student = await this.challengesRepository.findById(challengeId)
+       const student = await this.stundentsRepository.findById(studentId)
 
         if (!student) {
             throw new Error('Student does not exists')
         }
 
-        const challenge = await this.stundentsRepository.findById(studentId)
+        const challenge = await this.challengesRepository.findById(challengeId)
 
         if (!challenge) {
             throw new Error('Challenge does not exists')
