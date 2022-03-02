@@ -188,11 +188,11 @@ export default {
             legacyDecorator: true,
             decoratorMetadata: true,
           },
-          module: {
-            type: 'es6',
-            noInterop: false,
-          },
-        }
+        },
+        module: {
+          type: 'es6',
+          noInterop: false,
+        },
       },
     ],
   },
